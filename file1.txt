@@ -12,3 +12,5 @@ Added new line
 Added 1
 
 Added 2
+
+Updated file 1
