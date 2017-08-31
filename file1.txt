@@ -1,3 +1,1 @@
-file1 changed
-
-file1 changed again
+local changes
